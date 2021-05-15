@@ -23,7 +23,7 @@ export default function DarkNavbar() {
         <Navbar.Brand className="d-flex text-center" href="#home">
           <Link to="/" style={{ textDecoration: "none", color: "white" }}>
             <h1 className="px-4">
-              <FaArchive className="mb-2" /> QuestionVault
+              <FaArchive className="mb-2" /> ExamVault
             </h1>
           </Link>
         </Navbar.Brand>

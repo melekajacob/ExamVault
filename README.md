@@ -1,6 +1,6 @@
-# QuestionVault
+# ExamVault
 
-Submission for Shopify 2021 Intern challenge. QuestionVault is a webapp which allows users to upload images of questions (i.e. math, science, trivia) and optionally solutions along with metadata, and then provide an interface to view these questions and then the solution.
+Submission for Shopify 2021 Intern challenge. ExamVault is a webapp which allows users to upload images of questions (i.e. math, science, trivia) and optionally solutions along with metadata, and then provide an interface to view these questions and then the solution.
 
 # Setup
 
@@ -15,7 +15,7 @@ Now navigate to `localhost:3000` to view the application
 
 # Architecture
 
-QuestionVault was built as a serverless application.
+ExamVault was built as a serverless application.
 
 # Improvements
 
