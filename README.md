@@ -1,4 +1,4 @@
-# ExamVault (WIP)
+# ExamVault 
 
 Full-stack web application to allow students to generate practice exams for their classes with questions and solutions submitted by their peers. The goal is for a student to be able to join a class, specify their instructor, and be able to generate several high quality practice exams that they can print or download in order to study most effectively. They can then view the accompanying practice exam solution. The questions will be sourced from uploads of other students, and the quality of the questions will be scored based upon the ratings of other students (similar to how top answers on stack overflow are the ones upvoted the most).
 
